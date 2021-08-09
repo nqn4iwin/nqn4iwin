@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule&animation=blink%20render&fontSize=90" />
 
 
 [![N|Solid](https://github.com/daejeonpython/meerkats/blob/main/photo/banner.png)](https://nodesource.com/products/nsolid)
