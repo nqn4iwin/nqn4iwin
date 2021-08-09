@@ -32,3 +32,26 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
+  
+  ## Stats
+
+> These themes work both for the Stats Card and Repo Card.
+
+| | | |
+| :--: | :--: | :--: |
+| `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
+| `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] | `tokyonight` ![tokyonight][tokyonight] |
+| `onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
+| `highcontrast` ![highcontrast][highcontrast] | `dracula` ![dracula][dracula] | `prussian` ![prussian][prussian] |
+| `monokai` ![monokai][monokai] | `vue` ![vue][vue] | `vue-dark` ![vue-dark][vue-dark] |
+| `shades-of-purple` ![shades-of-purple][shades-of-purple] | `nightowl` ![nightowl][nightowl] | `buefy` ![buefy][buefy] |
+| `blue-green` ![blue-green][blue-green] | `algolia` ![algolia][algolia] | `great-gatsby` ![great-gatsby][great-gatsby] |
+| `darcula` ![darcula][darcula] | `bear` ![bear][bear] | `solarized-dark` ![solarized-dark][solarized-dark] |
+| `solarized-light` ![solarized-light][solarized-light] | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] |
+| `gotham` ![gotham][gotham] | `material-palenight` ![material-palenight][material-palenight] | `graywhite` ![graywhite][graywhite] |
+| `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark] | `ayu-mirage` ![ayu-mirage][ayu-mirage] | `midnight-purple` ![midnight-purple][midnight-purple] |
+| `calm` ![calm][calm] | `flag-india` ![flag-india][flag-india] | `omni` ![omni][omni] |
+| `react` ![react][react] | `jolly` ![jolly][jolly] | `maroongold` ![maroongold][maroongold] |
+| `yeblu` ![yeblu][yeblu] | `blueberry` ![blueberry][blueberry] | `slateorange` ![slateorange][slateorange] |
+| `kacho_ga` ![kacho_ga][kacho_ga] | `outrun` ![outrun][outrun] | [Add your theme][add-theme] |
+
