@@ -1,5 +1,10 @@
 [![N|Solid](https://github.com/daejeonpython/meerkats/blob/main/photo/banner.png)](https://nodesource.com/products/nsolid)
 
+## Features
+
+- 전국 질병 통계 예측
+- 럼피스킨병, 조류인플루엔자, 등등...
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
