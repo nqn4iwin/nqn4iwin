@@ -13,13 +13,15 @@
 - 럼피스킨병, 조류인플루엔자, 등등...
 - 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">동적으로 생성되는 Github 사용량 통계를 여러분의 README 에 추가해보세요!</p>
+ <p align="center">동적으로 생성되는 Github 사용량 통계를 여러분의 README 에 추가해보세요! - 추후 결정</p>
 </p>
-<a href="https://github.com/daejeonpython"><img src="https://img.shields.io/badge/대전파이썬-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
 
-  
+<a href="https://www.oie.int/en/home/"><img src="https://img.shields.io/badge/OIE-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
+
+<a href="https://www.reuters.com/"><img src="https://img.shields.io/badge/Reuters-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
+
+<a href="http://outbreaknewstoday.com/"><img src="https://img.shields.io/badge/outbreaknewstoday-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp  
