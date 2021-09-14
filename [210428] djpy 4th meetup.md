@@ -1,6 +1,6 @@
 ## 1. 테크 트렌드
 
-> 박재홍 - <a href=https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.lzr3ct5s873n target="_blank">메타버스 비긴즈</a>
+> 박재홍 - [메타버스 비긴즈](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.lzr3ct5s873n)
   - <a href=https://spri.kr/posts/view/23197 target="_blank">메타버스</a>
   - <a href=https://myignite.microsoft.com/home target="_blank">MS이그나이트</a>
   - Microsoft Mesh - Youtube 영상 : https://www.youtube.com/watch?v=IkpsJoobZmE&ab_channel=Microsoft
