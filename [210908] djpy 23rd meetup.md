@@ -3,7 +3,8 @@
 - 박재홍 - <a href=https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.lzr3ct5s873n target="_blank">메타버스 비긴즈</a>
   - <a href=https://spri.kr/posts/view/23197 target="_blank">메타버스</a>
   - <a href=https://myignite.microsoft.com/home target="_blank">MS이그나이트</a>
-  - <a href=https://www.youtube.com/watch?v=IkpsJoobZmE&ab_channel=Microsoft target="_blank">Microsoft Mesh</a>
+  - Microsoft Mesh
+   - Youtube 영상 : https://www.youtube.com/watch?v=IkpsJoobZmE&ab_channel=Microsoft
   - <a href=https://neuralink.com/ target="_blank">뉴럴링크</a>
   - <a href=https://www.citivelocity.com/citigps/ target="_blank">Future of Money</a>
 
