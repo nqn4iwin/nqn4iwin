@@ -1,6 +1,6 @@
 ## 1. 테크 트렌드
 
-> 박재홍 - [0422 테크 트렌드](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.s0lbbdcmkb66)
+> 박재홍 - [0421 테크 트렌드](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.s0lbbdcmkb66)
   - [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
       - [NVIDIA GTC & NVIDIA Grace](https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems)
             - Youtube 영상 : https://www.youtube.com/watch?v=eAn_oiZwUXA
