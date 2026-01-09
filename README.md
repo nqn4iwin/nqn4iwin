@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Semper,%20Liber&fontSize=90" style="width: 100%;"/>
 
 <h1>Introduction</h1>
 
