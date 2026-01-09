@@ -176,7 +176,3 @@ Assessing GPT models’ Sensitivity to Epistemic Meanings in Korean Periphrastic
 </p>
 
 <hr/>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/nqn4iwin" alt="GitHub Contributions"/>
-</p>
